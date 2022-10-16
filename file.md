@@ -7,10 +7,7 @@
    
 
 - Nella riga 22 si estraggono i 20 link dall'HTML della pagina.
-- Dalla riga 29 alla 38 si accede singolarmente ad ogni pagina contenente il  txt tramite il corrispettivo link,se ne estraggono i dati e si salvano a loro volta in un nuovo formato txt sul proprio computer.\\
-    
-
-        Più precisamente:
+- Dalla riga 29 alla 38 si accede singolarmente ad ogni pagina contenente il  txt tramite il corrispettivo link,se ne estraggono i dati e si salvano a loro volta in un nuovo formato txt sul proprio computer.
         -- Nelle righe 30,34,38 sono stati inseriti dei print per controllare il funzionamento del programma.\\
        I print sono stati inseriti al fine di avere un feedback sul funzionamento del programma dato che in questo esempio i dati estratti sono molti ed il programma su computer più lenti potrebbe sembrare bloccato mentre in realtà sta lavorando.\\
        In questo modo si controlla che tutto proceda evitando riavvi inutili.
