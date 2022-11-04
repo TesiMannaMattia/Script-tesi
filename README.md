@@ -9,3 +9,5 @@ Elenco dei file :
 - **Figura 02** contiene la sintassi utilizzata per ottenere la figura 1.4 "Posizione dei siti patrimonio dell’umanità in pericolo". 
 -  **Metodo_GET**  il metodo più semplice per effettuare web scraping tramite la libreria **BeautifulSoup**  si utilizza per siti semplici. 
 - **Metodo_POST**  metodo più sofisticato per effettuare web scraping tramite la libreria **BeautifulSoup**  si utilizza per siti che richiedono un minimo di interazione. 
+- **Applicazione** contiene tutti i codici utilizzati per l'esempio di applicazione del capitolo 6.  
+
