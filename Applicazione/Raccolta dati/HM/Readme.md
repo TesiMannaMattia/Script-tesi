@@ -13,7 +13,7 @@ Un altro metodo con il quale si sarebbe potuto procedere può essere trovato nel
 
 ### Struttura
 Come già detto la struttura portante dello scraping è costituita da cicli for annidati.  
-Per prima cosa si va ad iterare sul sesso.  Perciò si andranno ad estrarre prima tutte le categorie divestiti da  donna.  
+Per prima cosa si va ad iterare sul sesso.  Perciò si andranno ad estrarre prima tutte le categorie di vestiti da  donna.  
 Per ogni categoria si andranno a prendere tutte le sottocategorie e per ogni sottocategoria tutti gli articoli appartenenti ad essa.  
 Verrà tutto ripetuto per i vestiti da uomo.  
 - Sesso
