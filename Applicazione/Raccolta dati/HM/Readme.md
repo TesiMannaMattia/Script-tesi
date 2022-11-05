@@ -30,16 +30,21 @@ Verrà tutto ripetuto per i vestiti da uomo.
               
 ## Analisi dei singoli script
 
-### mainHM.py o mainHM.ipynb
+### mainHM.py/mainHM.ipynb
 Come suggerisce il titolo questo è lo script principale.  
 In questo script viene definita tutta la struttura appena descritta e vengono richiamate tutte le altre funzioni.  
 
-### estrazione_categorie.py estrazione_categorie.ipynb
+### estrazione_categorie.py/estrazione_categorie.ipynb
 
-### estrazione_sottocategorie.py o estrazione_sottocategorie.ipynb
+### estrazione_sottocategorie.py/estrazione_sottocategorie.ipynb
 
-### estrazione_articoli.py o estrazione_articoli.ipynb
+### estrazione_articoli.py/estrazione_articoli.ipynb
 
+### apri_pagina.py/apri_pagina.ipynb
+
+### estrazione_dati.py/estrazione_dati.ipynb
+
+### estrai_attributi.py/estrai_attributi.ipynb
 
 
 
