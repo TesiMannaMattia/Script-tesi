@@ -27,3 +27,19 @@ Verrà tutto ripetuto per i vestiti da uomo.
     - T-shirt e canotte
         - Canotte  
               - Tutti gli articoli appartenenti alle canotte
+              
+## Analisi dei singoli script
+
+### mainHM.py o mainHM.ipynb
+Come suggerisce il titolo questo è lo script principale.  
+In questo script viene definita tutta la struttura appena descritta e vengono richiamate tutte le altre funzioni.  
+
+### estrazione_categorie.py estrazione_categorie.ipynb
+
+### estrazione_sottocategorie.py o estrazione_sottocategorie.ipynb
+
+### estrazione_articoli.py o estrazione_articoli.ipynb
+
+
+
+
