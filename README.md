@@ -10,5 +10,5 @@ Elenco dei file :
 -  **Metodo_GET**  il metodo più semplice per effettuare web scraping tramite la libreria **BeautifulSoup**  si utilizza per siti semplici. 
 - **Metodo_POST**  metodo più sofisticato per effettuare web scraping tramite la libreria **BeautifulSoup**  si utilizza per siti che richiedono un minimo di interazione. 
 - **Applicazione** contiene tutti i codici utilizzati per l'esempio di applicazione del capitolo 6.  
-
+-  **Vestiti.csv** dataset contenente i vestiti presenti sui siti di HM ed Hollister.
 **In tutte le cartelle oltre i file .py sono stati inseriti anche dei file .ipynb per facilitare la comprensione.**     
