@@ -22,7 +22,7 @@ Verrà tutto ripetuto per i vestiti da uomo.
         - Articoli
            - Registrazione dati 
 
-#### Esempio
+#### Esempio di iterazione
 - Donna 
     - T-shirt e canotte
         - Canotte  
