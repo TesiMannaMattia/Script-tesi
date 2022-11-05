@@ -160,7 +160,7 @@ meno_SOTTOcategorie=False
 nSOTTOcategorie=1
 
 #Primo ciclo itera su UOMO - DONNA
-for s in range(1,len(link_sesso)):
+for s in range(0,len(link_sesso)):
     lista_controllo_link=[]
     #crea il dizionario dei prodotti 
     tipologia_categorie=estrazione_tipo_prodotti(link_sesso[s]) 
