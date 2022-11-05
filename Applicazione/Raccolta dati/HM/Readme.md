@@ -9,14 +9,21 @@ Per potere eseguire questi codici sul proprio computer deve essere eseguita l'in
 # Capire il codice 
 ## Come è impostato?
 È stata scelta una impostazione a **cicli for** annidati.  
-Sebbene non sia la procedura più robusta per effettuare scraping, questa procedura è quella più facile per registrare correttamente le informazioni.  
 Un altro metodo con il quale si sarebbe potuto procedere può essere trovato nella cartella **Script-tesi/Esempio-bonus**.  
 
 ### Struttura
-- sesso
+Come già detto la struttura portante dello scraping è costituita da cicli for annidati.  
+Per prima cosa si va ad iterare sul sesso.  Perciò si andranno ad estrarre prima tutte le categorie divestiti da  donna.  
+Per ogni categoria si andranno a prendere tutte le sottocategorie e per ogni sottocategoria tutti gli articoli appartenenti ad essa.  
+Verrà tutto ripetuto per i vestiti da uomo.  
+- Sesso
   - Categorie
      - Sottocategorie
         - Articoli
            - Registrazione dati 
 
- 
+#### Esempio
+- Donna 
+  - T-shirt e canotte
+   - Canotte
+      -Tutti gli articoli appartenenti alle canotte
