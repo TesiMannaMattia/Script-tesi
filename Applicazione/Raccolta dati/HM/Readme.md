@@ -14,6 +14,7 @@ Un altro metodo con il quale si sarebbe potuto procedere può essere trovato nel
 
 ### Struttura
 - sesso
-- - Categorie
+  - Categorie
+     - Sottocategorie
 
  
