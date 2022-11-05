@@ -9,6 +9,8 @@ Ciò che è stato fatto è stato creare una nuova variabile binaria per ogni mat
 
 Per i materiali si è cercato di ricollegare tutti i colori più particolari a quelli più generici, ad esempio corallo viene codificato come arancione.  
 
+Sono stati anche eliminati tutti i vestiti che non hanno un colore specifico o un materiale, questo è stato fatto perchè queste due
+sono variabili fondamentali nello studio, se sono assenti è inutile prendere in considerazione il vestito.  
 
 
 
