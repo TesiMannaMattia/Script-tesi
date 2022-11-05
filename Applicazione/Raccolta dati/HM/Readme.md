@@ -25,5 +25,5 @@ Verrà tutto ripetuto per i vestiti da uomo.
 #### Esempio
 - Donna 
   - T-shirt e canotte
-   - Canotte
-      -Tutti gli articoli appartenenti alle canotte
+   - Canotte  
+        -Tutti gli articoli appartenenti alle canotte
