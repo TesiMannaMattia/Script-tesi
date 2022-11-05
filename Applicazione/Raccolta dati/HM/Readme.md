@@ -12,6 +12,8 @@ Per potere eseguire questi codici sul proprio computer deve essere eseguita l'in
 Sebbene non sia la procedura più robusta per effettuare scraping, questa procedura è quella più facile per registrare correttamente le informazioni.  
 Un altro metodo con il quale si sarebbe potuto procedere può essere trovato nella cartella **Script-tesi/Esempio-bonus**.  
 
-
+### Struttura
+- sesso
+- - Categorie
 
  
