@@ -26,7 +26,7 @@ Verrà tutto ripetuto per i vestiti da uomo.
 - Uomo
     - TOPWEAR
         - T-shirt & Maglie serafino
-              - Tutti gli articoli appartenenti a -shirt & Maglie serafino
+             - Tutti gli articoli appartenenti a -shirt & Maglie serafino
               
 ## Analisi dei singoli script
 
