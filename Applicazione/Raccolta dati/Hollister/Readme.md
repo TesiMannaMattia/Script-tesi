@@ -41,14 +41,10 @@ Estrare tutte le categorie di vestiti di un sesso.
 Estrare tutte le sottocategorie di una categoria.
 
 ### 4) cambiopagina.y/cambiopagina.ipynb
-Estrare tutti i link degli articoli di una sottocategoria. 
+Prende tutti gli html delle eventuali n pagine della sottocategoria
 
-### 5) apri_pagina.py/apri_pagina.ipynb
-Per ogni link estratto nella funzione precedente apre la pagina ad esso associata.  
-Una volta aperta la pagina accetta i cookie e la scrolla per far caricare tutto l'html. 
+### 5) estrazionearticoli.py/estrazionearticoli.ipynb
+Estrae  i link di ogni singolo articolo dagli html trovanti nella funzione precedente.
 
-### 6) estrazionearticoli.py/estrazionearticoli.ipynb
-Estrae  dati dall'html estratto nella funzione precedente. 
-
-### 7) estrai_attributi.py/estrai_attributi.ipynb
+### 6) estrazionedati.py/estrazionedati.ipynb
 Estrae  dati dall'html estratto nella funzione apri_pagina.py.
