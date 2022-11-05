@@ -16,5 +16,7 @@ Un altro metodo con il quale si sarebbe potuto procedere può essere trovato nel
 - sesso
   - Categorie
      - Sottocategorie
+        - Articoli
+           - Registrazione dati 
 
  
