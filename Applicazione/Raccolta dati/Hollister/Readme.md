@@ -23,27 +23,32 @@ Verrà tutto ripetuto per i vestiti da uomo.
            - Registrazione dati 
 
 #### Esempio di iterazione
-- Donna 
-    - T-shirt e canotte
-        - Canotte  
-              - Tutti gli articoli appartenenti alle canotte
+- Uomo
+    - TOPWEAR
+        - T-shirt & Maglie serafino
+              - Tutti gli articoli appartenenti a -shirt & Maglie serafino
               
 ## Analisi dei singoli script
 
-### 1) mainHM.py/mainHM.ipynb
+### 1) main.py/main.ipynb
 Come suggerisce il titolo questo è lo script principale.  
 In questo script viene definita tutta la struttura appena descritta e vengono richiamate tutte le altre funzioni.  
 
-### 2) estrazione_categorie.py/estrazione_categorie.ipynb
+### 2) estrazioneprodotti.py/estrazioneprodotti.ipynb
 Estrare tutte le categorie di vestiti di un sesso.
+
 ### 3) estrazione_sottocategorie.py/estrazione_sottocategorie.ipynb
 Estrare tutte le sottocategorie di una categoria.
-### 4) estrazione_articoli.py/estrazione_articoli.ipynb
+
+### 4) cambiopagina.y/cambiopagina.ipynb
 Estrare tutti i link degli articoli di una sottocategoria. 
+
 ### 5) apri_pagina.py/apri_pagina.ipynb
 Per ogni link estratto nella funzione precedente apre la pagina ad esso associata.  
 Una volta aperta la pagina accetta i cookie e la scrolla per far caricare tutto l'html. 
-### 6) estrazione_dati.py/estrazione_dati.ipynb
+
+### 6) estrazionearticoli.py/estrazionearticoli.ipynb
 Estrae  dati dall'html estratto nella funzione precedente. 
+
 ### 7) estrai_attributi.py/estrai_attributi.ipynb
 Estrae  dati dall'html estratto nella funzione apri_pagina.py.
